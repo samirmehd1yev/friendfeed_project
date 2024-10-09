@@ -1,3 +1,5 @@
 raw_data/
 processed_data/
-profiling/
+.venv/
+.idea/
+.ipynb_checkpoints/
