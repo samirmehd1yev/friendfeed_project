@@ -3,3 +3,4 @@ processed_data/
 .venv/
 .idea/
 .ipynb_checkpoints/
+graph/
