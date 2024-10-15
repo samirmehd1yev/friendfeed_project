@@ -4,3 +4,4 @@ processed_data/
 .idea/
 .ipynb_checkpoints/
 graph/
+.DS_Store
